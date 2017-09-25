@@ -1,0 +1,32 @@
+body{
+    font-family: 'Encode Sans Expanded', sans-serif;
+    background-color: #000000;
+}
+h1{
+    color: #80ff80;
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+li{
+    color: #00e600;
+    font-family: 'Encode Sans Expanded', sans-serif;
+}
+footer{
+    color: #008000;
+    text-decoration: none;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+}
+.heart{
+    color: #e6ffe6;
+}
+a{
+    color: #99ff99;
+
+}
+a:hover{
+    color: #e6ffe6;
+}
+strong{
+    color: #e6ffe6;
+}
